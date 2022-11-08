@@ -1,0 +1,29 @@
+header {
+    width: 1440px;
+    height: 80px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    padding: 0 80px;
+
+    background-color: #ffffff;
+}
+
+.navbar {
+    width: 1280px;
+    height: 44px;
+    padding: 0 32px;
+
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar__lista {
+    width: 362px;
+
+    display: flex;
+    justify-content: space-around;
+}
